@@ -1,14 +1,15 @@
 <template>
   <!-- Remove & use example component! -->
-  <HelloWorld />
+  <Nav />
+  <RouterView />
 </template>
 
 <script>
-import HelloWorld from '~/components/HelloWorld'
+import Nav from '~/components/Nav'
 
 export default {
   components: {
-    HelloWorld
+    Nav
   }
 }
 </script>
