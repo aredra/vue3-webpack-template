@@ -10,7 +10,10 @@
 <script>
 export default {
   props: {
-    msg: { type: String }
+    msg: {
+      type: String,
+      default: ''
+    }
   },
   emits: ['click']
 }

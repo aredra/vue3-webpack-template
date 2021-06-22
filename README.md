@@ -105,7 +105,7 @@ __eslint-plugin-cypress__: Cypress용 ESLint 플러그인 __(+Cypress)__<br>
 - `package.json` 옵션으로 `browserslist` 추가!<br>
 - `.postcssrc.js` 생성(PostCSS 구성 옵션)!<br>
 - `.babelrc.js` 생성(Babel 구성 옵션)!<br>
-- `.eslintrc.js` 생성(ESLint 구성 옵션)!<br>
+- `.eslintrc.js` 생성(ESLint 구성 옵션)! __(+ESLint)__<br>
 
 ## ESLint Auto fix on save for VSCode
 
